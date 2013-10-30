@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  first_name: MyString
+  last_name: MyString
+  dob: 2013-10-30
+  gender: MyString
+  blood_type: MyString
+  pcp: MyString
+  medication: MyText
+  allergies: MyText
+  doctor: MyText
+  med_conditions: MyText
+
+two:
+  first_name: MyString
+  last_name: MyString
+  dob: 2013-10-30
+  gender: MyString
+  blood_type: MyString
+  pcp: MyString
+  medication: MyText
+  allergies: MyText
+  doctor: MyText
+  med_conditions: MyText
